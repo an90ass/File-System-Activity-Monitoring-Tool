@@ -1,0 +1,6 @@
+watchdog
+requests
+py-cpuinfo
+datetime
+ctypes
+os
